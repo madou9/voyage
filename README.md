@@ -1,6 +1,6 @@
 # Air-Tenere - Travel Website
 
-Welcome to 227Voyage! This is a travel website designed to help users explore and plan their trips to various destinations.
+Welcome to Air-Tenere! This is a travel website designed to help users explore and plan their trips to various destinations.
 
 ## Features
 
